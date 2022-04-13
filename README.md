@@ -47,8 +47,8 @@ npm install --save web3 @walletconnect/web3-provider
 
 ### Author/Web Developer: 
 **NICHOLAS AGBO** a.k.a Nicholas, Ghost
-
 <br/>
+
 **UI** By **Efraim Lavi (Lead Artist)** @MetaCares
 
 #### Follow Me on:
@@ -57,4 +57,3 @@ npm install --save web3 @walletconnect/web3-provider
 
 ![MetaCares Pattern](./pattern.png)
 ###### MetaCares.io &copy; 2022
-
