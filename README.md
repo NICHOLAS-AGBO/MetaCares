@@ -22,6 +22,7 @@ for Production
 * [MUI](https://mui.com/) - React UI Library
 * [FONTAWESOME](https://fontawesome.com/) -  Internet's icon library and toolkit
 * [WALLETCONNECT](https://walletconnect.com/) - The web3 standard to connect blockchain wallets to dapps.
+* [GSAP](https://greenstock.com/) - The standard for modern web animation
 
 ```shell
 
@@ -42,6 +43,9 @@ npm install @mui/material @emotion/react @emotion/styled
 
 *WALLETCONNECT*
 npm install --save web3 @walletconnect/web3-provider
+
+*GSAP*
+npm install gsap
 
 ```
 
