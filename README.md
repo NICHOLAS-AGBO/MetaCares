@@ -1,5 +1,5 @@
 <div align="center">
-	<img align="center" src="./MToken.svg" alt="metacares logo"/>
+	<img align="center" width="185" src="./MToken.svg" alt="metacares logo"/>
 </div>
 
 [MetaCares.io](https://metacares.io)
@@ -57,3 +57,4 @@ npm install --save web3 @walletconnect/web3-provider
 
 ![MetaCares Pattern](./pattern.png)
 ###### MetaCares.io &copy; 2022
+
